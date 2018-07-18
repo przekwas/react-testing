@@ -1,3 +1,6 @@
+# Simple Comment Form to Learn Jest Testing
+I'm learning how to utilize Jest to make unit tests.  I'm building a simple comment section styled React app to test with.
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
